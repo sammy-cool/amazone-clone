@@ -1,3 +1,12 @@
+--->> AMAZONE CLONE --->>
+![amazon1](https://user-images.githubusercontent.com/71437463/127584250-7e9eb3bd-e809-4465-9947-414d34dccd54.png)
+
+![amazon4](https://user-images.githubusercontent.com/71437463/127584330-9cf24715-aa66-4bb2-b0f9-912ca04aebbb.png)
+
+![amazon2](https://user-images.githubusercontent.com/71437463/127584357-3449eca3-b24a-4334-b4d5-defa335b0da9.png)
+
+![amazon3](https://user-images.githubusercontent.com/71437463/127584381-35c07525-02cb-4fc0-969f-54bfd3348d72.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
