@@ -1,4 +1,5 @@
---->> AMAZONE CLONE --->>
+--->> **###AMAZONE CLONE** --->>
+**[LIVE App LINK]**(https://amazone-clone-web.netlify.app/)
 ![amazon1](https://user-images.githubusercontent.com/71437463/127584250-7e9eb3bd-e809-4465-9947-414d34dccd54.png)
 
 ![amazon4](https://user-images.githubusercontent.com/71437463/127584330-9cf24715-aa66-4bb2-b0f9-912ca04aebbb.png)
